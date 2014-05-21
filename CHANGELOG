@@ -1,0 +1,13 @@
+openengsb-connector-parent v3.0.0 2014-05-21
+--------------------------------------------
+
+### Details
+** Bug
+    * [OPENENGSB-3388] - Connector parent doesn't include any direct configuration for maven-bundle-plugin
+
+** Improvement
+    * [OPENENGSB-3289] - extract connector-parent to separate repository
+
+** Library Upgrade
+    * [OPENENGSB-3399] - upgrade assembly-builder-resources to 1.0.1
+    * [OPENENGSB-3726] - upgrade connector parent to root 35-SNAPSHOT
