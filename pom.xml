@@ -27,7 +27,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openengsb.connector</groupId>
   <artifactId>openengsb-connector-parent</artifactId>
-  <version>3.0.0</version>
+  <version>3.0.1-SNAPSHOT</version>
 
   <name>OpenEngSB :: Connector :: Parent</name>
 
@@ -49,7 +49,7 @@
     <connection>scm:git:git://github.com/openengsb/openengsb-connector-parent.git</connection>
     <developerConnection>scm:git:git@github.com:openengsb/openengsb-connector-parent.git</developerConnection>
     <url>http://github.com/openengsb/openengsb-connector-parent</url>
-    <tag>v3.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
