@@ -1,3 +1,13 @@
+
+openengsb-connector-parent v3.1.0 2015-03-17
+--------------------------------------------
+
+This release uses openengsb-root-37.
+
+### Details
+** Library Upgrade
+    * [OPENENGSB-3870] - Upgrade openengsb-connector-parent to openengsb-root 37
+
 openengsb-connector-parent v3.0.1 2014-10-10
 --------------------------------------------
 
